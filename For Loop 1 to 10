@@ -1,0 +1,22 @@
+#include <iostream>
+#include <iomanip>
+#include <conio.h>
+
+using namespace std;
+
+int main()
+{
+	int counter;
+	
+	for (counter=1;counter<=10;counter++)
+	{
+		//Displays number 1 to 10 
+		cout << counter << " ";
+	
+	}
+	
+	return 0;
+	
+	_getch();
+	
+}
