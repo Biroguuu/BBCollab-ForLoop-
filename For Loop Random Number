@@ -1,0 +1,26 @@
+#include <iostream>
+#include <iomanip>
+#include <conio.h>
+#include <cstdlib>
+
+using namespace std;
+
+int main ()
+
+{
+	int count, randomnum;
+	
+	for (count=1;count<=20;count++)
+	
+	{
+	
+	randomnum = rand(); 
+	cout << randomnum << "\n";
+		
+	}
+	
+	return 0;
+	
+	_getch();
+	
+}
