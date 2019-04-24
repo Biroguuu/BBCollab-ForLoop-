@@ -1,0 +1,25 @@
+#include <iostream>
+#include <iomanip>
+#include <conio.h>
+
+using namespace std; 
+
+int main()
+{
+	int i,counter; 
+	
+	i = 100;
+	
+	while (i>10)
+		
+		{
+			cout << counter;
+			counter--;
+		
+		}
+	
+	
+return 0;
+
+_getch();
+}
